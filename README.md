@@ -1,2 +1,2 @@
 # Yes-bank-stock-price-prediction
-Yes bank is an well knwon bank in india which provides wide range of serivce and solutions right from bank accounts, deposits, card, cash managements, privillages banking trade finances, Non-Resident india (NRI) banking, institutional banking, acquiring, digital banking and agriculture banning solutions. 
+Yes Bank is a well-known financial institution in India, offering a comprehensive range of services spanning bank accounts, deposits, cards, cash management, privileged banking, trade finances, Non-Resident India (NRI) banking, institutional banking, acquiring, digital banking, and agricultural banking solutions. 
